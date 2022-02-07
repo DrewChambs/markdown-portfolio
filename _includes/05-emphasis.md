@@ -1,1 +1,19 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Stuff to Discuss
+
+Show a _list_ of **possible skills** and languages
+
+## Progamming Languages
+- Javascript
+- C++
+- Java
+- C#
+
+## Colaboration Soon
+- Github
+- Git
+
+## Skills
+- HTML
+- CSS
+- 
+
